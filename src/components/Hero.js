@@ -24,10 +24,10 @@ const Hero = () => {
       <div className='max-w-md mb-auto space-y-5'>
         <h1 className='text-5xl font-bold md:text-7xl'>Hello. I am Gowtham Prasath</h1>
         <p className='tracking-wide leading-relaxed'>
-         About a years ago I decided I wanted more from my career - plus I really love learning, So I decided to teach
+         About a years ago I decided want more from my career - plus I love learning, So I decided to teach
         myself how to code and I started with HTML5 and CSS3 for Better knowladge I moved to Full Stack devolepment
-        Course (MERN) in Guvi Geek Institue from june 2022 to oct 2022 before my Full Stack Course I had complited B.E
-        Civil Engineering in year 2018, and i worked as site Engineeri in Apexinfralink limited till May 2022.
+        Course (MERN) in Guvi Geek Institue from June 2022 to Nov 2022 before my Full Stack Course I had complited B.E
+        Civil Engineering in year 2018, and  worked as site Engineer in Apexinfralink limited till May 2022.
         </p>
       </div>
     </section>
