@@ -11,7 +11,7 @@ const projects = [
     {
       title: 'DASH BOARD CLONE',
       image: './images/dashbord',
-      description: 'This is a basic front end Dash board clone Application.',
+      description: 'This is a basic front end Dash board clone Application by using Bootstrap.',
       tools: ['React','HTML','Css','Bootstarp'],
       github: 'https://github.com/PrasathGowtham',
       link: 'https://bejewelled-shortbread-4e8972.netlify.app/',
@@ -19,15 +19,15 @@ const projects = [
     {
       title: 'Nationalize API',
       image: './images/nation',
-      description: 'It is based on	By Searching the Name of Person, We get the response back by displaying the top two countries of Name and it also display the probability value..',
+      description: 'App is based on By Searching the Name of Person, We get the response back by displaying the top two countries of Name and it also display the probability value..',
       tools: ['HTML','Css','Javascript'],
       github: 'https://github.com/PrasathGowtham',
       link: 'https://gilded-sprinkles-278914.netlify.app',
     },
     {
-      title: 'E-COMMERSE SITE',
+      title: 'E-COMMERCE SITE CLONE',
       image: './images/ecomm',
-      description: 'The E-commerse site is a basic front end react app ',
+      description: 'This E-commerce site is a basic front end react app clones using Bootstrap  ',
       tools: ['React','HTML','Css','Bootstarp'],
       github: 'https://github.com/PrasathGowtham',
       link: 'https://rad-churros-eac9aa.netlify.app/?#',
